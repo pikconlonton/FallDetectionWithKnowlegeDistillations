@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ### Dataset Preparation
 
-1. **Data Sources**: The project uses multiple fall detection datasets (see `doc/path_dataset.txt`)
+1. **Data Sources**: The project uses multiple fall detection datasets (see `doc/path_dataset.txt`) or click this link "https://universe.roboflow.com/hong-nguyn-lixag/fall_detection-8vxyk/browse?queryText=class%3Afall&pageSize=50&startingIndex=0&browseQuery=true" to archive short dataset
 2. **Data Processing**: Use `ProcessingDataAndFinetuningYolov5.ipynb` to:
    - Process YOLO format annotations
    - Extract bounding boxes for classification
