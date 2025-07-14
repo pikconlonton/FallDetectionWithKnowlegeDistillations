@@ -1,0 +1,21 @@
+https://universe.roboflow.com/fordataset/yolov7-hiqkc
+
+https://universe.roboflow.com/roboflow-universe-projects/fall-detection-ca3o8
+
+https://universe.roboflow.com/ufddfdd/ur-fall-detection-dataset
+
+https://sites.google.com/up.edu.mx/har-up/#h.p_tuiqEospefMI
+
+RF DETR
+
+https://universe.roboflow.com/robo-vobcs/fall-detection-stqne/browse?queryText=class%3Astand&pageSize=50&startingIndex=0&browseQuery=true
+
+https://universe.roboflow.com/workshop-yg2yt/fall-dtk98
+
+
+
+#bú data ngon
+https://universe.roboflow.com/hong-nguyn-lixag/fall_detection-8vxyk/browse?queryText=class%3Afall&pageSize=50&startingIndex=0&browseQuery=true
+
+
+# nhận diện cảm xúc
