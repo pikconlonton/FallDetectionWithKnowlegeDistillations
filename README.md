@@ -196,4 +196,5 @@ See `doc/` folder for detailed research papers and references.
 
 ## Contact
 
-For questions or collaboration, please open an issue in this repository.
+For questions or collaboration, please open an issue in this repository or my linkedLn: "linkedin.com/in/nguyễn-thành-chung-22477b2a0". 
+
